@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-A Natural Language Processing (NLP) project to classify the context of messages that were sent during disaster. 
+A Natural Language Processing (NLP) project to classify the context of messages that were sent during disasters. 
 
 ### Installation
 For installation clone this repository and to read two CSV-files navigate to the data folder and run process_data.py:
