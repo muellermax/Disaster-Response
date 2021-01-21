@@ -51,7 +51,7 @@ This project is part of my Udacity Data Science course.
 
 
 ### Data
-The data was proviced by [Figure Eight](https://appen.com/). 
+The data was provided by [Figure Eight](https://appen.com/). 
 
 
 ### How to interact
